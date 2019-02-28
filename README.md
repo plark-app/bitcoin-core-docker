@@ -1,4 +1,4 @@
-# ruimarinho/bitcoin-core
+# plark/bitcoin-core
 
 A bitcoin-core docker image. Based on [ruimarinho/bitcoin-core](https://github.com/ruimarinho/docker-bitcoin-core)
 
